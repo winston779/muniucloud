@@ -1,12 +1,20 @@
 # 牧牛云机场官网地址
 
-最新地址：[muniucloud.one](https://muniucloud.me/auth/register?code=vrek)
+最新地址：[muniucloud.one](https://牧牛.com/auth/register?code=TQpz)
 
 ## 简介
 
 牧牛云机场是老牌机场，包含三个公益节点，以及支持IPLC中继和专线的50+节点。目前所有节点均为Shadowsocks(R) 协议，可以使用任意支持 SS / SSR 的客户端连接。解锁Netflix、TVB、HBO GO、Fox+等流媒体服务。
 
 提供￥5一周的试用套餐。
+
+## 牧牛云优惠码
+
+优惠码：2024
+
+有效期截止 2024年2月15日晚
+
+优惠额度： 15% off
 
 ## 特色
 
