@@ -1,6 +1,6 @@
 # 牧牛云机场官网地址
 
-最新地址：[muniucloud.one](https://muniucloud.biz/auth/register?code=TQpz)
+最新地址：[muniu.pro](https://muniucloud.biz/auth/register?code=TQpz)
 
 ## 简介
 
@@ -10,11 +10,7 @@
 
 ## 牧牛云优惠码
 
-优惠码：2024
-
-有效期截止 2024年2月15日晚
-
-优惠额度： 15% off
+优惠码：zFQi42Wa
 
 ## 特色
 
