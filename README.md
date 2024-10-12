@@ -1,6 +1,6 @@
 # 牧牛云机场官网地址
 
-最新地址：[muniu.pro](https://牧牛.com/auth/register?code=TQpz)
+最新地址：[muniu.pro](https://牧牛.com/auth/register?code=Ugej)
 
 ## 简介
 
